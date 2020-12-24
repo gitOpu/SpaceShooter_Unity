@@ -1,5 +1,5 @@
 **Space Shooter**
-<a href="https://www.raywenderlich.com/847-object-pooling-in-unity" target="_blank">Details Tutorial</a>
+
 
 
 ### Activities
@@ -576,3 +576,4 @@ private ParticleSystem ps;
 }
 ```
 
+<a href="https://www.raywenderlich.com/847-object-pooling-in-unity" target="_blank">...l</a>
